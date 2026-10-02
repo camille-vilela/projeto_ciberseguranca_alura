@@ -9,6 +9,7 @@ A equipe de cybersegurança precisa analisar os dados dos chamados e logs. Para 
 - Priorizar os incidentes para resposta eficiente.
 Objetivo é analisar as fontes de dados e propor  uma inteligência analítica em 
 contribuição na conformidade com as normas e políticas de seguranças internas.
+
 Metas:
 - Eficiência operacional. :chart_with_upwards_trend:
 - Tomada de decisão baseada em Dados :game_die:

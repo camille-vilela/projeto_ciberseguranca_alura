@@ -13,4 +13,4 @@ contribuição na conformidade com as normas e políticas de seguranças interna
 Metas:
 - Eficiência operacional. :chart_with_upwards_trend:
 - Tomada de decisão baseada em Dados :game_die:
-- Contribuição com conformidade e relatórios que comprovem o monitoramento de acessos e proteção de dados de forma contínua.
+- Contribuição com conformidade e relatórios que comprovem o monitoramento de acessos e proteção de dados de forma contínua. :lock:
